@@ -6,4 +6,5 @@ url: "http://smartideasinc.github.io"
 # Build settings
 baseurl: /cactus-jekyll-theme/
 markdown: kramdown
-gems: - jekyll-sitemap
+gems:
+      - jekyll-sitemap
